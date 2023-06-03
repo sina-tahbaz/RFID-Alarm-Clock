@@ -1,5 +1,5 @@
 # RFID-Alarm-Clock
-This is an alarm clock that turns off by scanning a predefined RFID tag. The idea is that by placing the tag outside the sleeping place, one has to get out of bed in order to turn the alarm off. It consists of an arduino pro mini, a mini RC522 RFID module, an OLED display and a vibration motor.
+This is an alarm clock that turns off by scanning a predefined RFID tag. The idea is that by placing the tag outside the sleeping place, one has to get out of bed in order to turn the alarm off. It consists of an arduino pro mini, a mini RC522 RFID module, a 64x32 OLED display and a vibration motor.
 
 ![DSC04174](https://github.com/sina-tahbaz/RFID-Alarm-Clock/assets/110201165/2e8fd00e-1271-4a2e-8d40-6d6faf613fcb)
 
